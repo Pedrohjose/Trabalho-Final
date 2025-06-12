@@ -1,8 +1,6 @@
 # Jogo Caça ao Tesouro
 
-## Universidade Regional de Blumenau (FURB)  
-**Centro de Ciências Exatas e Naturais**  
-**Departamento de Sistemas e Computação**  
+## Universidade Regional de Blumenau (FURB)    
 **Disciplina:** Introdução à Programação  
 **Professor:** André Felipe Bürger  
 
