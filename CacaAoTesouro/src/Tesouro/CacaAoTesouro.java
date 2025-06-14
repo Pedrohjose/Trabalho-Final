@@ -23,14 +23,14 @@ public class CacaAoTesouro {
 
 	// Inicia o jogo
 	public void iniciarJogo() {
-		exibirMensagemInicial(); // Mostra introdução
-		inicializarMapa(); // Posiciona tesouros e armadilhas
-		executarLoopPrincipal(); // Loop do jogo
-		finalizarJogo(); // Exibe resultado final
-		scanner.close(); // Fecha o scanner
+		exibirMensagemInicial(); 
+		inicializarMapa(); 
+		executarLoopPrincipal(); 
+		finalizarJogo(); 
+		scanner.close(); 
 	}
 
-	// Exibe uma mensagem inicial
+	// Mensagem inicial
 	private void exibirMensagemInicial() {
 		System.out.println("===============================================");
 		System.out.println("               CAÇA AO TESOURO                 ");
